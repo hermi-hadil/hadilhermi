@@ -24,4 +24,4 @@ I'm progressively building toward full-stack development and artificial intellig
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Hadil Hermi]([https://www.linkedin.com/in/hadil-hermi-26bbb8224/]))
+- LinkedIn: [Hadil Hermi]([https://www.linkedin.com/in/hadil-hermi-26bbb8224/])
